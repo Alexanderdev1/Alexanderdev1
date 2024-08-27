@@ -5,7 +5,7 @@
   <h1 align="center">Holaa <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFteTlhYjR1Z2VpOG9idGNsczBjMW44NWxsenNrb3JpbWR1Y2oyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a1Cwco2kUtlS/giphy.gif" width="30"/>, Mi nombre es Alexander.dev</h1>
   
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzcXJobDc4cGVqMmU4ZDluOXRrN2h2MW5od2E4NzBlcDhmdWp2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="35%" align="right"/>
-  <h3 align="left"> Soy un desarrollador mobil y frontend con un gran amor por Javascript, Python, Java, ReactNative.</h3> 
+  <h3 align="left"> Soy desarrollador mobil y frontend con un gran amor por Javascript, Python, Java, ReactNative.</h3> 
 </div>
    
    
