@@ -2,7 +2,7 @@
   <img src="https://github.com/ALEXIS-XF/imagen/blob/main/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro.png" />
 </div>
 <div> 
-  <h1 align="center">Holaa <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFteTlhYjR1Z2VpOG9idGNsczBjMW44NWxsenNrb3JpbWR1Y2oyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a1Cwco2kUtlS/giphy.gif" width="30"/>, Mi nombre es Alexander_dev</h1>
+  <h1 align="center">Holaa <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFteTlhYjR1Z2VpOG9idGNsczBjMW44NWxsenNrb3JpbWR1Y2oyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a1Cwco2kUtlS/giphy.gif" width="30"/>, Mi nombre es Alexander.dev</h1>
   
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzcXJobDc4cGVqMmU4ZDluOXRrN2h2MW5od2E4NzBlcDhmdWp2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="35%" align="right"/>
   <h3 align="left"> Soy un desarrollador mobil y frontend con un gran amor por Javascript, Python, Java, ReactNative.</h3> 
